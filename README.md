@@ -25,6 +25,8 @@ The app demonstrates the use of Intents in two ways:
 3. Import the sample into Android Studio.
 4. Build and run the sample.
 
+# Learn More
+
 [Fragments](https://developer.android.com/guide/fragments)
 
 [Fragment Class Reference](https://developer.android.com/reference/android/app/Fragment)
