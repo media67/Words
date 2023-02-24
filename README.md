@@ -24,3 +24,17 @@ The app demonstrates the use of Intents in two ways:
 2. Download the sample.
 3. Import the sample into Android Studio.
 4. Build and run the sample.
+
+# Learn More
+
+[Fragments](https://developer.android.com/guide/fragments)
+
+[Fragment Class Reference](https://developer.android.com/reference/android/app/Fragment)
+
+[SafeArgs](https://developer.android.com/guide/navigation/navigation-pass-data)
+
+[Bundle Class Reference](https://developer.android.com/reference/android/os/Bundle)
+
+[Null safety in Kotlin](https://kotlinlang.org/docs/reference/null-safety.html)
+
+[FragmentContainerView](https://developer.android.com/reference/androidx/fragment/app/FragmentContainerView)
