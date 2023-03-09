@@ -38,3 +38,13 @@ The app demonstrates the use of Intents in two ways:
 [Null safety in Kotlin](https://kotlinlang.org/docs/reference/null-safety.html)
 
 [FragmentContainerView](https://developer.android.com/reference/androidx/fragment/app/FragmentContainerView)
+
+Learn More
+----------
+- [DataStore](https://developer.android.com/topic/libraries/architecture/datastore) guide
+- [DataStore](https://developer.android.com/reference/kotlin/androidx/datastore/core/DataStore) reference
+- [Preferences](https://developer.android.com/reference/kotlin/androidx/datastore/preferences/core/Preferences)
+- [android.datastore.preferences.core](https://developer.android.com/reference/kotlin/androidx/datastore/preferences/core/package-summary#top-level-functions)
+
+Blog
+- [Prefer storing data with Jetpack Datastore](https://android-developers.googleblog.com/2020/09/prefer-storing-data-with-jetpack.html)
